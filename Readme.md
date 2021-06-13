@@ -1,8 +1,7 @@
 ![Alt text](/img/lconBootstarp.png)
-<p style="text-align: center;">Bootstrap</p> {\textcolor{blue}{blue}
+<p style="text-align: center;">Bootstrap</p> \textcolor{blue}
 Sleek, intuitive, and powerful front-end framework for faster and easier web development.\textcolor{blue}{blue}
-Explore Bootstrap docs » {\textcolor{blue}{blue}
-
+Explore Bootstrap docs » 
 Report bug · Request feature · Themes · Blog
 
 #### Bootstrap 5
