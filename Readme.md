@@ -1,8 +1,11 @@
 ![Alt text](/img/lconBootstarp.png)
-Bootstrap 
+
+##### Bootstrap 
 Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-<span style="color:blue">Explore Bootstrap docs » 
-Report bug · Request feature · Themes · Blog</span>
+
+<span style="color:blue">Explore Bootstrap docs» </span>
+
+<span style="color:blue">Report bug · Request feature · Themes · Blog </span>
 
 #### Bootstrap 5
 ___
