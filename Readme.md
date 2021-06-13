@@ -3,9 +3,9 @@
 ##### Bootstrap 
 Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
-<span style="color: blue">Explore Bootstrap docs»</span>
+[Explore Bootstrap docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-<span style="color: blue">Report bug · Request feature · Themes · Blog</span>
+[Report bug](https://github.com/twbs/bootstrap/issues/new?template=bug_report.md) · [Request feature](https://github.com/twbs/bootstrap/issues/new?template=feature_request.md) · [Themes](https://themes.getbootstrap.com/) · [Blog](https://blog.getbootstrap.com/)
 
 #### Bootstrap 5
 ___
