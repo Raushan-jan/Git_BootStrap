@@ -11,7 +11,7 @@ Our default branch is for development of our Bootstrap 5 release. Head to the v4
 
 Table of contents
 ___
-- Quick start
+- [Quick start](https://github.com/twbs/bootstrap/blob/main/README.md)
 - Status
 - What's included
 - Bugs and feature requests
