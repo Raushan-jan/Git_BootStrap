@@ -1,5 +1,5 @@
-![Alt text](/img/logo.png)
-####Bootstrap
+![Alt text](/img/lconBootstarp.png)
+#### Bootstrap
 Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 Explore Bootstrap docs »
 
@@ -23,7 +23,7 @@ ___
 - Thanks
 - Copyright and license
 
-###Quick start
+### Quick start
 ___
 Several quick start options are available:
 
