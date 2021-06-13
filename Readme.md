@@ -1,4 +1,4 @@
-![Alt text](/img/lconBootstarp.png=250x250)
+![Alt text](/img/lconBootstarp.png)
 
 ##### Bootstrap 
 Sleek, intuitive, and powerful front-end framework for faster and easier web development.
